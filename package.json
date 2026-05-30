@@ -1,0 +1,35 @@
+{
+  "name": "json-crud-fs",
+  "version": "1.1.2",
+  "description": "CLI to build for appjs, the endpoints",
+  "keywords": [
+    "cli",
+    "scaffold",
+    "templates",
+    "node",
+    "project-generator"
+  ],
+  "dependencies": {
+  },
+  "type": "module",
+  "exports": {
+    ".": "./index.js"
+  },
+  "bin": {
+    "json-crud-fs": "./bin/cli.js"
+  },
+  "files": [
+    "bin/",
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "homepage": "https://cli.keshavsoft.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keshavsoft/json-crud-fs"
+  },
+  "bugs": {
+    "url": "https://github.com/keshavsoft/json-crud-fs/issues"
+  }
+}
