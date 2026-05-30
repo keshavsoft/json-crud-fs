@@ -1,4 +1,5 @@
 import updateAppJs from "./UpdateAppJs/index.js";
+import updateAppJs from "../engine/index.js";
 
 export default ({ endpoint, toPath, showLog }) => {
     const localToPath = toPath;
