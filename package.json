@@ -1,6 +1,6 @@
 {
   "name": "json-crud-fs",
-  "version": "1.1.2",
+  "version": "1.2.1",
   "description": "CLI to build for appjs, the endpoints",
   "keywords": [
     "cli",
